@@ -7,6 +7,6 @@
     <title>About Page.</title>
 </head>
 <body>
-    <h2>Basic Page.</h2>
+    <h2>Hello From Basic About US Page.</h2>
 </body>
 </html>
